@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="static/banner.png" width="120" alt="LX Manhwa Logo">
+  <img src="logo.jpg" width="200" alt="LX Manhwa Logo">
 </p>
 
 <h1 align="center">LX MANHWA</h1>
