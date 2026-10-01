@@ -32,6 +32,7 @@
 - [Tunnel & Deploy](#tunnel--deploy)
 - [Hiệu suất](#hiệu-suất)
 - [Thông tin](#thông-tin)
+- [Giấy phép](#giấy-phép)
 
 ---
 
@@ -307,6 +308,20 @@ APP_PORT   = 3000
 - **Môi trường:** Android · Termux
 - **Stack:** Python · Flask · Jinja2 · Vanilla JS
 - **Tác giả:** dexbillava · `dexbilldragon`
+
+---
+
+## Giấy phép
+
+[MIT License](https://github.com/chiuaquang/LX-Manhwa/blob/main/LICENSE)
+
+---
+
+<div align="center">
+
+[![Star History Chart](https://api.star-history.com/svg?repos=chiuaquang/lx-manhwa&type=Date)](https://star-history.com/#chiuaquang/lx-manhwa&Date)
+
+</div>
 
 ---
 
