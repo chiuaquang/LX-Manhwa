@@ -358,7 +358,7 @@ Tôi đã làm template này hơn **8 tháng**. Cảm ơn những người đã 
 
 | Tên | Số tiền |
 |---|---|
-| Vũ Hoàng| 920,000đ |
+| Vũ Hoàng| 520,000đ |
 tôi cũng nhớ lắm chắc bằng này người đã ủng hộ tôi trên Discord + Message
 | Nguyễn Nam | 100,000đ |
 | Nguyễn Thắng | 59,000đ |
