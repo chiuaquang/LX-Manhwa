@@ -321,10 +321,22 @@ Template này đọc dữ liệu truyện thẳng từ điện thoại của b�
 
 ## 📖 Câu chuyện của tôi
 
-Tôi biết mình không giỏi giang gì. Nhưng kênh YouTube đã cho tôi động lực — từ 100 sub rồi lên dần, giờ đã đạt **736 sub**. Cảm ơn mọi người đã ủng hộ tôi suốt 2 năm qua.
+Mặc dù tôi là một kẻ thất bại có thể bạn biết đấy nguồn Youtube đã làm tôi có động lực hơn khi tôi có hơn có 100 sub khi lên sub cao hơn tôi rất vui mừng giờ kênh tôi đã 736 sub cảm ơn mọi người đã ủng hộ tôi trong 2 năm qua.
+Mặc dù có vẻ như tôi sẽ ít giao tiếp mặc dù tôi không thể thay đổi đc vì mình không có kĩ năng trình độ cao những việc tôi thấy như thể mình không thể làm đc. Có vẻ như tôi cảm thấy mình không có tương lai thôi.
+T không có niềm tự tin như người khác 
+Mặc dù bạn có thể nói t ngu cũng đc.
+Ừ t thấy rất sợ hãi 🐧🐧 kiểu như mình đang thất nghiệp ấy 😢 , t cũng sợ người t nói t này nọ.
+Mặc dù t cũng chả muốn tồn tại ở thế giới này lắm t cũng đã nhịn đủ thứ 
 
-Tôi ít giao tiếp, ít tự tin, hay sợ bị người khác đánh giá. Có những lúc tôi cảm thấy mình không có chỗ đứng ở thế giới này — nhưng tôi vẫn tiếp tục làm, vì đây là thứ tôi có thể làm được.
+T phải nghe những câu chửi mẹ t như ngu các kiểu -- tưởng con người thay đổi đc sao t cũng khó.
+T giao tiếp ít nên sẽ không thể quen ai 
+Không dễ vậy | Do kiến thức của t bạn có thể nói t như trẻ con cũng đc | ta chưa hề ra ngoài nhiều mỗi lần t đi học về t sẽ ở trong phòng thôi t | t chơi game thôi trong đầu t cũng không thể tiếp thu đc nên t không thông minh hơn người khác.
 
+T đã phải như này suốt vài năm qua ngay cả lúc t đi làm và giờ t đã nghỉ ---- thật ra t cũng chả chơi đc với người khác đâu 🐧 vì mình không có gì để nói.. 
+ như t gặp người khác t cũng chả muốn hỏi gì đâu .   
+
+😢😢😢😢
+Ước rằng t không sinh ra ở thế giới này cũng đc 
 Template này là bằng chứng rằng — dù thế nào — tôi đã hoàn thành nó. 🐧
 
 ---
