@@ -358,7 +358,7 @@ Tôi đã làm template này hơn **8 tháng**. Cảm ơn những người đã 
 
 | Tên | Số tiền |
 |---|---|
-| Nguyễn Nam | 100đ |
+| Nguyễn Nam | 100,000đ |
 | Nguyễn Thắng | 59,000đ |
 | Phan Nguyễn | 49,000đ |
 
@@ -366,9 +366,8 @@ Tôi đã làm template này hơn **8 tháng**. Cảm ơn những người đã 
 
 | Tên | GitHub / Alias |
 |---|---|
-| Kaizen | Phan Toàn |
 | Dex Bill | Chìu Quảng |
-
+| Kaizen | Phan Toàn |
 ---
 
 ## Giấy phép
