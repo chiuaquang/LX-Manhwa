@@ -361,6 +361,7 @@ Tôi đã làm template này hơn **8 tháng**. Cảm ơn những người đã 
 | Nguyễn Nam | 100,000đ |
 | Nguyễn Thắng | 59,000đ |
 | Phan Nguyễn | 49,000đ |
+| Vũ Hoàng| 20,000đ |
 
 **Người đã giúp phát triển:**
 
